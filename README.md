@@ -31,7 +31,7 @@ Step-by-step investigation leading to the final reveal
 
 🎯 Objective
 
-Use your analytical skills and algorithmic thinking to connect the dots, identify the real culprit, and expose Inspector Muneer, the mastermind who orchestrated the theft.
+Use your analytical skills and algorithmic thinking to connect the dots, identify the real culprit.
 
 🚀 Educational Value
 
